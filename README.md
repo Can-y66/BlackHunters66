@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm blackhunters</h1>
-<h3 align="center">A creative enthusiast from Türkiye</h3>
+<h1 align="center">Hi 👋, I'm Can</h1>
+<h3 align="center">A random dev from Türkiye</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackhunters66&label=Profile%20views&color=0e75b6&style=flat" alt="blackhunters66" /> </p>
 
 - 🌱 I’m currently learning **Python**
@@ -7,8 +7,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/BlackHunters66](https://github.com/BlackHunters66)
 
 - 💬 Ask me about **JavaScript, Lua**
-
-- 📫 How to reach me **canyuruk621@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
